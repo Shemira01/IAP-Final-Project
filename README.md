@@ -1,4 +1,4 @@
-# IAP-Final-Project
+# IAP-Final-Project-Documentation
 
 Habit Tracker Web Application Documentation
 Group Members
