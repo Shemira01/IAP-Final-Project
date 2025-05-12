@@ -3,11 +3,10 @@
 Habit Tracker Web Application Documentation
 Group Members
 1.	Felix Mbugua			SCT212-0248/2023
-2.	Cecil Kioko 		 	SCT212-0047/2023
-3.	Shemiramoth Mugo 		SCT212-0061/2023 
-4.	Lee Kariuki 			SCT212-0049/2023
-5.	Samuel Kuria 			 SCT212-0476/2023
-6.	Dennis Kirehu			SCT212-0045/2023
+2.	Shemiramoth Mugo 		SCT212-0061/2023 
+3.	Lee Kariuki 			SCT212-0049/2023
+4.	Samuel Kuria 			 SCT212-0476/2023
+
 A Django & JavaScript-Based Productivity Tool
 ________________________________________
 Distinctiveness and Complexity
